@@ -2,6 +2,7 @@ body{
     color: #333;
     padding-top: 75px;
     background-color: #eee;
+    margin: 0;
 }
 #header{
     position: fixed;
@@ -22,7 +23,7 @@ body{
     display: inline-block;
     color: inherit;
     text-decoration: none;
-    margin: 10px 90px;
+    margin: 10px 4vw;
 }
 #form{
     text-align: center;
@@ -42,11 +43,12 @@ body{
     background-color: #f1c40f;
     border: 0;
 }
-#submit:hover{
+#submit:hover , .pricing-link:hover{
     background-color: orange;
 }
 #container{
-    max-width: 850px;
+    max-width: 900px;
+    padding: 0 10px;
     margin: auto;
 }
 .features{
@@ -55,6 +57,7 @@ body{
     margin: 10px auto;
 }
 .features-icon{
+    width: 50px;
     color: orange;
     font-size: 60px;
     align-self: center;
@@ -67,14 +70,47 @@ body{
     width: 100%;
     height: 350px;
     max-width: 600px;
-    margin: 50px auto;
+    margin: 80px auto;
 }
 #pricing{
     display: flex;
-    gap:20px;
+    gap: 20px;
 }
 .pricing-item{
     width: 100%;
-    border:solid 1px black;
-    padding:
+    text-align: center;
+    border: solid 1px black;
+}
+.pricing-title{
+    line-height: 50px;
+    background-color: #ddd;
+    margin: 0;
+}
+.pricing-link{
+    display: inline-block;
+    color: inherit;
+    padding: 10px 15px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: #f1c40f;
+    margin-bottom: 15px;
+}
+#footer{
+    padding: 20px;
+    text-align: right;
+    background-color: #ddd;
+    margin-top: 40px;
+}
+.footer-link{
+    display: inline-block;
+    color: inherit;
+    text-decoration: none;
+    margin: 0 0 10px 15px;
+}
+@media (max-width: 768px){
+    body { padding-top: 150px; }
+    #header { text-align: center; }
+    #nav-bar { float: none; }
+    .nav-link { display: block; }
+    #pricing { flex-direction: column; }
 }
