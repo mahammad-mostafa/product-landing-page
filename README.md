@@ -1,5 +1,8 @@
-# FCC Test Suite Template
+# Tribute page
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+This is my second trial project with **Microverse**. It is a product landing web page built with **HTML** & **CSS** through **pair programming**.
+The project required several instructions to be followed in building HTML tags.
+The instructions included a special request, where it is required to have a **responsive layout** and use **CSS flexbox** features.
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+Reference page design:
+https://product-landing-page.freecodecamp.rocks
