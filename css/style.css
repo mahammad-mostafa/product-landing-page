@@ -44,3 +44,7 @@ body{
 #submit:hover{
     background-color: orange;
 }
+#container{
+    max-width: 700px;
+    margin:auto;
+}
