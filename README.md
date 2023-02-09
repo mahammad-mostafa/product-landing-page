@@ -1,4 +1,4 @@
-# Tribute page
+# Product landing page
 
 This is my second trial project with **Microverse**. It is a product landing web page built with **HTML** & **CSS** through **pair programming**.
 The project required several instructions to be followed in building HTML tags.
