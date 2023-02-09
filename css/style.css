@@ -26,6 +26,7 @@ body{
 }
 #form{
     text-align: center;
+    margin-bottom: 70px;
 }
 #email{
     display: block;
@@ -45,6 +46,26 @@ body{
     background-color: orange;
 }
 #container{
-    max-width: 700px;
-    margin:auto;
+    max-width: 850px;
+    margin: auto;
+}
+.features{
+    display: flex;
+    gap: 60px;
+    margin: 10px auto;
+}
+.features-icon{
+    color: orange;
+    font-size: 60px;
+    align-self: center;
+}
+.features-title{
+    margin-bottom: -15px;
+}
+#video{
+    display: block;
+    width: 100%;
+    height: 350px;
+    max-width: 600px;
+    margin: 50px auto;
 }
