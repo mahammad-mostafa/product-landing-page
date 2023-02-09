@@ -69,3 +69,12 @@ body{
     max-width: 600px;
     margin: 50px auto;
 }
+#pricing{
+    display: flex;
+    gap:20px;
+}
+.pricing-item{
+    width: 100%;
+    border:solid 1px black;
+    padding:
+}
