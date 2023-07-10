@@ -6,7 +6,7 @@
 
 This is my second trial project with **Microverse**
 <br/>
-Check the below contents for futher details about this project.
+Check the below contents for further details about this project.
 
 <!-- CONTENTS -->
 
@@ -34,8 +34,8 @@ Reference page design:
 https://product-landing-page.freecodecamp.rocks
 
 📌 **Tech Stack:**
-<br/>
-`HTML5` & `CSS3`
+- Page strucutre is built with `HTML5`
+- Styling and effects built with `CSS3`
 
 📌 **Key Features:**
 - Responsive web page with all screen sizes
@@ -53,16 +53,13 @@ https://product-landing-page.freecodecamp.rocks
 You can easily download or fork this repository and work on it immediately!
 
 📌 **Prerequisites:**
-<br/>
-No prior requirements needed!
+- No prior requirements needed!
 
 📌 **Setup:**
-<br/>
-Simply download or fork this repository.
+- Simply download or fork this repository.
 
 📌 **Deployment:**
-<br/>
-You can deploy this project by simply uploading the folder to a live server.
+- You can deploy this project by simply uploading the folder to a live server.
 
 <p align="right"><a href="#title">back to top</a></p>
 
